@@ -1,1 +1,1 @@
-notepad login.py
+print("Login successful")
